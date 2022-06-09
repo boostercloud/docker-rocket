@@ -1,0 +1,15 @@
+{
+  "packages": [
+    "packages/*"
+  ],
+  "command": {
+    "add": {
+      "exact": true
+    },
+    "bootstrap": {
+      "hoist": true
+    }
+  },
+  "version": "0.2.1",
+  "npmClient": "npm"
+}
